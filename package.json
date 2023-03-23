@@ -1,0 +1,16 @@
+{
+    "name":"fourfingers",
+    "version":"0.0.1",
+    "main":"cal",
+    "repository": {
+        "type":"git",
+        "url":"https://github.com/kavyasriudumula/fourfingers"
+    },
+   "keywords": [
+    "cal","calci12"
+   ],
+   "dependencies":{},
+   "engines": {
+    "node":"*"
+   }
+}
