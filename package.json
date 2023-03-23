@@ -1,10 +1,11 @@
 {
+    "author":"varisudu",
     "name":"fourfingers",
-    "version":"0.0.1",
-    "main":"cal",
+    "version":"0.8.67",
+    "main":"calci",
     "repository": {
         "type":"git",
-        "url":"https://github.com/kavyasriudumula/fourfingers"
+        "url":"https://github.com/harshalokh/harshai2wde"
     },
    "keywords": [
     "cal","calci12"
